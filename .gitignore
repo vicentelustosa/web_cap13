@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Flask/local configuration
+.env
+instance/
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs and local tool caches
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Source snapshots and local documents
+*.pdf
