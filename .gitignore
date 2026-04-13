@@ -16,6 +16,9 @@ instance/
 *.sqlite
 *.sqlite3
 
+# Migrações do banco de dados
+migrations/ 
+
 # Logs and local tool caches
 *.log
 .pytest_cache/
